@@ -21,5 +21,9 @@
   "trim_automatic_white_space": true,
   "trim_trailing_white_space_on_save": true,
   "use_tab_stops": true,
-  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
+  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+  "theme": "Soda Light.sublime-theme",
+  "soda_classic_tabs": true,
+  "soda_folder_icons": true,
+  "color_scheme": "Packages/Theme - Soda/Monokai Soda.tmTheme"
 }
