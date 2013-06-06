@@ -1,6 +1,6 @@
 [
 	{ "keys": ["super+shift+a"], "command": "goto_drupalapi" },
 	{ "keys": ["super+shift+h"], "command": "goto_documentation"},
-	{ "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" }
+	{ "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" },
         { "keys": ["ctrl+shift+f"], "command": "reindent" }
 ]	
