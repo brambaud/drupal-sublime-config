@@ -1,0 +1,7 @@
+{
+    "settings":
+    {
+        "live_mode": true,
+        "non_blocking": true
+    }
+}
